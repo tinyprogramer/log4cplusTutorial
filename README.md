@@ -13,3 +13,6 @@ you do not need to build it if you want to use codes in your own project
 - add Mylog.h Mylog.cpp to your code files
 - rebuild your project
 - add Mylog.conf to the path has .exe file  
+
+
+For more detail you can go to my [CSDN blog](https://blog.csdn.net/qq_41961619/article/details/106506504)
